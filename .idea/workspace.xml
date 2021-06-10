@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0391fdd1-4619-4799-b846-7d9522af231a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Boletos/Boletos.json" beforeDir="false" afterPath="$PROJECT_DIR$/Boletos/Boletos.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
